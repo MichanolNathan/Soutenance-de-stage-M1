@@ -1,0 +1,5 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{L'entreprise Groupe PSA}{3}{0}{1}
+\beamer@sectionintoc {2}{La mission}{6}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{13}{0}{3}
+\beamer@sectionintoc {4}{Annexes}{14}{0}{4}
